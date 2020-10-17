@@ -4,11 +4,18 @@
 
 This is an assignment to refactor HTML and CSS files to address accessibility concerns.  The code provided is a website for an imaginary marketing agency with requested changes to follow accessbility standards and improve search engine optimization using Semantic HTML and consolidated CSS selectors.  
 
-This week is an odd-numbered week, so your homework is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's homework involves a very important aspect of web development: **accessibility**. 
+### Homework Deliverables and Codebase Updates
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this homework, a marketing agency has hired you to refactor an existing site to make it more accessible. 
+* Updated HTML tags to use semantic HTML in place of div elements
+* Added alt attributes to the HTML img elements
+* Consolidated the CSS selectors in the HTML file
+* Ordered the CSS selectors to follow the semantic structure of the HTML elements
+* Added comments to the CSS file
+* Created a README.md file to describe and demo the updates to the codebase
+* Deployed the application to a live url
 
-Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+
+###
 
 Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
 
