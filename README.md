@@ -36,3 +36,4 @@ The following image shows the web application's appearance and functionality:
 
 
 ## Application URL
+[Completed Homework](https://thorgriffs.github.io/seo-refactor/)
