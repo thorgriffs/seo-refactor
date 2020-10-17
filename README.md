@@ -15,9 +15,12 @@ This is an assignment to refactor HTML and CSS files to address accessibility co
 * Deployed the application to a live url
 
 
-###
+### Struggles/Issues Encountered
 
-Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
+While working on this homework I encountered the following obstacles:
+* Uncertainty with the correct semantic HTML elements to use.  
+  * Once the elements were updated, then associating them to the appropriate CSS selectors presented some challenges for me.  I found myself questioning whether the elements themselves were causing display issues in the rendered HTML/CSS.  However, after a period of struggle I was able to identify the updates that were needed in the CSS to correctly associate the newly updated HTML elements and CSS selectors
+* When I introduced the nav element, this presented issues with the display of nested list elements.  I was able to update the float on the list items in the CSS to change it from a left float to a right float and this resolved the display issue 
 
 **Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
 
