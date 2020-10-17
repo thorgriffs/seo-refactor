@@ -7,6 +7,7 @@ This is an assignment to refactor HTML and CSS files to address accessibility co
 ### Homework Deliverables and Codebase Updates
 
 * Updated HTML tags to use semantic HTML in place of div elements
+* Fixed broken links from the Header nav elements
 * Added alt attributes to the HTML img elements
 * Consolidated the CSS selectors in the HTML file
 * Ordered the CSS selectors to follow the semantic structure of the HTML elements
@@ -21,6 +22,8 @@ While working on this homework I encountered the following obstacles:
 * Uncertainty with the correct semantic HTML elements to use.  
   * Once the elements were updated, then associating them to the appropriate CSS selectors presented some challenges for me.  I found myself questioning whether the elements themselves were causing display issues in the rendered HTML/CSS.  However, after a period of struggle I was able to identify the updates that were needed in the CSS to correctly associate the newly updated HTML elements and CSS selectors
 * When I introduced the nav element, this presented issues with the display of nested list elements.  I was able to update the float on the list items in the CSS to change it from a left float to a right float and this resolved the display issue 
+* Uncertainty with the information that needs to be communicated in the requested CSS comments
+
 
 **Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
 
