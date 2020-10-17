@@ -32,7 +32,7 @@ While working on this homework I encountered the following obstacles:
 
 The following image shows the web application's appearance and functionality:
 
-![seo refactor demo](./Assets/seo-refactor.demo.png)
+![seo refactor demo](./assets/seo-refactor-demo.png)
 
 
 ## Application URL
